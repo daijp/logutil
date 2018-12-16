@@ -1,4 +1,4 @@
-package com.llnxs.log.annotation;
+package com.github.daijp.annotation;
 
 
 import java.lang.annotation.*;

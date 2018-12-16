@@ -1,4 +1,4 @@
-package com.llnxs.log;
+package com.github.daijp;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

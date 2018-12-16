@@ -1,10 +1,10 @@
-package com.llnxs.log.utils;
+package com.github.daijp.utils;
 
 
 import com.google.common.base.Strings;
 import com.google.common.collect.Maps;
-import com.llnxs.log.LogValue;
-import com.llnxs.log.annotation.FieldInfo;
+import com.github.daijp.LogValue;
+import com.github.daijp.annotation.FieldInfo;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
