@@ -1,4 +1,4 @@
-package com.github.daijp.annotation;
+package io.github.daijp.annotation;
 
 
 import java.lang.annotation.*;

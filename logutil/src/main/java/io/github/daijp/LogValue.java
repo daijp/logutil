@@ -1,4 +1,4 @@
-package com.github.daijp;
+package io.github.daijp;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
